@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=docker,vscode,eclipse,github,discord" />
   </a>
 </p>
-<table align="center">
+<table align="center" border="0">
 	<tr>
 		<td>
 			<img src="https://github-readme-stats.vercel.app/api?username=arroyosergi3&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
