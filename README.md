@@ -33,10 +33,10 @@
 <table align="center">
 	<tr>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=arroyosergi3&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true" />
+			<img src="https://github-readme-stats.vercel.app/api?username=arroyosergi3&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
 		</td>
 		<td>
-			<img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=arroyosergi3&show_icons=true&theme=ambient_gradient&layout=compact&langs_count=8" />
+			<img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=arroyosergi3&show_icons=true&theme=cobalt&layout=compact&langs_count=8" />
 		</td>
 	</tr>
 </table>
