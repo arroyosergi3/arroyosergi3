@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Diseño -->
-	  
     <img src="https://skillicons.dev/icons?i=figma,ai,ps" />    
   </a>
 </p>
