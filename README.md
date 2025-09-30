@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">Learning web app development</h3>
+<h3 align="center">Web Developer</h3>
 
 
 - 📫 How to reach me **sergioaj815@gmail.com**
